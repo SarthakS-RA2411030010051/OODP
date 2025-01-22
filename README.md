@@ -25,7 +25,8 @@ UML (Unified Modeling Language)
     Design of Class:
 
     class <Name> {
-        public:
+
+       public:
             var;
             var;
         
