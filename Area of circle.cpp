@@ -4,6 +4,7 @@ using namespace std;
 
 class Area
 {
+private:
     float radius, area;       // Private member variables to store the radius and area of the circle
     const float PI = 3.14159; // Private constant for the value of PI
 

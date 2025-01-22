@@ -19,4 +19,18 @@ Quality :
 UML (Unified Modeling Language)
 1) Use Case
 2) Class
+    - Private : Variable defining, stored inside class only
+    - Public : User interaction, IO Function, Used Globally
+
+    Design of Class:
+
+    class <Name> {
+        public:
+            var;
+            var;
+        
+        private:
+            Input;
+            Output;
+    }
 
