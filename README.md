@@ -35,3 +35,12 @@ UML (Unified Modeling Language)
             Output;
     }
 
+
+New Features in C++ compared to C:
+- String Data Type
+    - In-Built Function
+    - Class Type
+- Memory Allocation
+- template (vector, list, array)
+- namespace std
+- scope resolution operator
