@@ -36,9 +36,10 @@ int main() {
     
     cout << "Enter number of votes: ";
     cin >> numVotes;
+
+    cout << "Enter vote (1-5): ";
     
     for (int i = 0; i < numVotes; i++) {
-        cout << "Enter vote (1-5): ";
         cin >> vote;
         election.castVote(vote);
     }
