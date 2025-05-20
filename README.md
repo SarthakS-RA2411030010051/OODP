@@ -23,6 +23,9 @@ C++ provides three access specifiers:
 - `private`: Members are accessible only within the class.
 - `protected`: Members are accessible within the class and by derived classes.
 
+- ![image](https://github.com/user-attachments/assets/b7bb6306-9b40-429b-83f8-a65c7e970a7a)
+
+
 ### 4. Write a C++ program for:
 #### a) Reverse a number
 ```cpp
